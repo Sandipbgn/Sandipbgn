@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sandipbgn
-- 👀 I’m interested in coading 
+- 👋 Hi, It's Sandip Bajagain
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning basci programming
 - 📫 find me on facebook
                https://www.facebook.com/sandip.bgn/
