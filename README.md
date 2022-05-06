@@ -1,6 +1,6 @@
 - 👋 Hi, It's Sandip Bajagain
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning basci programming
+- 🌱 I’m currently learning basic programming
 - 📫 find me on facebook
                https://www.facebook.com/sandip.bgn/
                Instagram
