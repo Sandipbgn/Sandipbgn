@@ -1,5 +1,6 @@
 - 👋 Hi, It's Sandip Bajagain
 - 👀 I’m interested in coding 
+- Bsc.CSIT student 
 - 🌱 I’m currently learning basic programming
 - 📫 find me on facebook
                https://www.facebook.com/sandip.bgn/
